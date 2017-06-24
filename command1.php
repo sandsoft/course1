@@ -6,3 +6,6 @@ echo $a;
 
 $c = 10 + 13;
 echo $c;
+
+$d = $a + $c;
+echo $d;
